@@ -19,3 +19,5 @@ Công nghệ và công cụ:
 - DAO
 - Facade
 - Singleton
+![image](https://github.com/xchien245/QuanLyHangHoa/assets/125299878/e44d1e87-e3af-43d5-8a38-20b749399ee9)
+
